@@ -35,8 +35,6 @@
                             <includes>
                                 <include>**/*IT.java</include>
                             </includes>
-                            <systemPropertyVariables>
-                            </systemPropertyVariables>
                         </configuration>
                     </plugin>
                 </plugins>
