@@ -19,12 +19,6 @@
                         <version>2.12.4</version>
                         <executions>
                             <execution>
-                                <id>acceptance-test</id>
-                                <goals>
-                                    <goal>integration-test</goal>
-                                </goals>
-                            </execution>
-                            <execution>
                                 <id>acceptance-test-analysis</id>
                                 <goals>
                                     <goal>verify</goal>
