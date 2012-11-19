@@ -24,12 +24,6 @@
                                     <goal>integration-test</goal>
                                 </goals>
                             </execution>
-                            <execution>
-                                <id>acceptance-test-analysis</id>
-                                <goals>
-                                    <goal>verify</goal>
-                                </goals>
-                            </execution>
                         </executions>
                     </plugin>
                 </plugins>
