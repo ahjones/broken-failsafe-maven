@@ -40,7 +40,6 @@
                                 <include>**/*IT.java</include>
                             </includes>
                             <systemPropertyVariables>
-                                <test.host>broken</test.host>
                             </systemPropertyVariables>
                         </configuration>
                     </plugin>
