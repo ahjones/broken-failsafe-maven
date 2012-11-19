@@ -25,13 +25,5 @@
             </plugin>
         </plugins>
     </build>
-
-    <profiles>
-        <profile>
-            <id>fail</id>
-
-        </profile>
-    </profiles>
-
     
 </project>
