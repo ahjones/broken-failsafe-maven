@@ -8,10 +8,6 @@
     <artifactId>jenkins-test</artifactId>
     <version>1.0</version>
 
-    <properties>
-        <test.host>broken</test.host>
-    </properties>
-
     <profiles>
         <profile>
             <id>fail</id>
